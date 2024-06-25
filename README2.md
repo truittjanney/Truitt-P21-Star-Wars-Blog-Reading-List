@@ -8,7 +8,6 @@ Technologies Used:
 - Bootstrap
 - JavaScript
 - React
-- SWAPI.tech API
 
 Requirements:
 - Make sure you are using node version 10
