@@ -9,7 +9,7 @@
 - JavaScript
 - React
 
-# Requirements
+## Requirements
 - Make sure you are using node version 10
 
 1. Install the packages:
@@ -29,7 +29,7 @@ $ npm run start
 ## Styles
 - You can update the `styles/index.css` or create new `.css` files inside `styles/` and import them into your current scss or js files depending on your needs.
 
-# Components
+## Components
 - Add more files into your `./src/js/components` or styles folder as you need them and import them into your current files as needed.
 
 **Note (New changes)**: Components have been converted into functions to support the use of hooks:
